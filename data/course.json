@@ -1,0 +1,52 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "7342a420-6203-77b0-a802-485e775f775a",
+  "instructors": {
+    "content": [
+      "4fbe6790-b04c-ca21-2ce4-732693820517"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1357ffe6-1032-91e9-1f1d-5372d87fd311",
+    "website": "21l-501-the-american-novel-fall-2006"
+  },
+  "course_title": "The American Novel",
+  "course_description": "This course explores the metaphorical, historical, social, and psychological value of ghosts in the American novel. Using the theme of \"haunting\" as a flashpoint for class discussion and a thematic center for our readerly attention, this course examines the American novel in the context of the various histories which might be said to haunt fictional characters in the American novel, to haunt the American novel itself, and ultimately to haunt us: America's colonial past, its slave past, and other memorable and painful chapters in its past.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.501",
+  "course_image_thumbnail": {
+    "content": "893eb5b4-992a-b632-1c42-a911715df31d",
+    "website": "21l-501-the-american-novel-fall-2006"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "950d5620-f607-47c3-a0de-b82f435b2718",
+  "site_short_id": "21l.501-fall-2006",
+  "title": "Course Metadata"
+}
